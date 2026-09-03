@@ -1,7 +1,10 @@
 # Title: 
 Original Author:
+
 *Subfield:*
+
 *Topics covered:*
+
 *Type of project:*
 
 ## Short Description:

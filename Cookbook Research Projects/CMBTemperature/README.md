@@ -1,7 +1,10 @@
 # Title: Determining the Temperature of the Cosmic Microwave Background
 Original Author: Melanie Zaidel
+
 *Subfield: Cosmology*
+
 *Topics covered: Cosmic microwave background, blackbody radiation, general cosmology*
+
 *Type of project: Theory and Data Analysis*
 
 ## Short Description:

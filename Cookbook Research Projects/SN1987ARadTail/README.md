@@ -1,7 +1,10 @@
 # Title: Understanding the Radioactive Tail of SN 1987A
 Original Author: Melanie Zaidel
+
 *Subfield: Astrophysics*
+
 *Topics covered: Supernova lightcurves, radioactive decay*
+
 *Type of project: Data Analysis*
 
 ## Short Description:

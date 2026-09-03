@@ -1,7 +1,10 @@
 # Title: Bell’s Theorem in Quantum Magnets
 Original Author: Ryan Buechele
+
 *Subfield: Condensed Matter*
+
 *Topics covered: Quantum information theory, Ising model*
+
 *Type of project: Theory and Computation*
 
 ## Short Description:

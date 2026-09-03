@@ -1,7 +1,10 @@
 # Title: Chemical Cartography of the Milky Way
 Original Author: Liam Dubay
+
 *Subfield: Astronomy*
-*Topics covered: Stellar abundances, nucleosynthesis, Milky Way galaxy*
+
+*Topics covered: Stellar abundances, nucleosynthesis, Milky Way Galaxy*
+
 *Type of project: Data Analysis*
 
 ## Short Description:

@@ -1,7 +1,10 @@
 # Title: Constraining the Electron Neutrino Mass using SN1987a
 Original Author: Melanie Zaidel
+
 *Subfield: Astroparticle Physics*
+
 *Topics covered: Neutrinos, supernovae, special relativity*
+
 *Type of project: Theory and data analysis*
 
 ## Short Description:
