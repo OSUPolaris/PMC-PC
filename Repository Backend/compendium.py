@@ -2,6 +2,7 @@
 
 import re
 from pathlib import Path
+from urllib.parse import quote
 
 import pandas as pd
 
@@ -55,15 +56,18 @@ def generate_markdown(df: pd.DataFrame) -> str:
 
     for subfield, group in df.groupby("Subfield", dropna=False, sort=True):
         subfield_name = subfield if pd.notna(subfield) else "Uncategorized"
-        lines.append(f"## {subfield_name}")
-        lines.append("")
+        section_lines = [f"## {subfield_name}", ""]
 
         for _, project in group.sort_values("Title").iterrows():
-            description_link = f"{PROJECTS_DIR_NAME}/{project['Directory']}/description.md"
-            lines.append(f"### [{project['Title']}]({description_link})")
-            lines.append(f"- **Topics Covered:** {project['Topics Covered']}")
-            lines.append(f"- **Project Type:** {project['Project Type']}")
-            lines.append("")
+            description_link = quote(f"{PROJECTS_DIR_NAME}/{project['Directory']}/description.md")
+            section_lines.append(f"### [{project['Title']}]({description_link})")
+            section_lines.append(f"- **Topics Covered:** {project['Topics Covered']}")
+            section_lines.append(f"- **Project Type:** {project['Project Type']}")
+            section_lines.append("")
+
+        # Blockquoting every line boxes the whole category with a left border in most renderers.
+        lines.extend(f"> {line}".rstrip() for line in section_lines)
+        lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
 
