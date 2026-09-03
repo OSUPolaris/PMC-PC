@@ -9,5 +9,5 @@ Below, we provide some brief instructions on what this repository contains exact
 For materials on becoming oriented with leading a Mentor/Mentee project, please check out (under construction).
 
 ### Project Cookbooks
-The complete list of Project Cookbooks can be found (under construction).
+The complete list of Project Cookbooks can be found in the [Compendium](Compendium.md).
 

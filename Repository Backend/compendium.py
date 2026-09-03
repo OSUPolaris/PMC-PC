@@ -1,4 +1,4 @@
-"""Build an index of Cookbook Research Projects by parsing each project's description.md."""
+"""Build an index of Cookbook Research Projects by parsing each project's README.md."""
 
 import re
 from pathlib import Path
@@ -22,7 +22,7 @@ FIELD_PATTERNS = {
 
 
 def parse_description(description_path: Path) -> dict:
-    """Extract the fields of interest from a description.md file."""
+    """Extract the fields of interest from a README.md file."""
     text = description_path.read_text(encoding="utf-8")
 
     fields = {}
@@ -34,11 +34,14 @@ def parse_description(description_path: Path) -> dict:
 
 
 def build_project_index(projects_dir: Path) -> pd.DataFrame:
-    """Scan each subdirectory of projects_dir for a description.md and collect project info."""
+    """Scan each subdirectory of projects_dir for a README.md and collect project info."""
     records = []
 
     for project_dir in sorted(p for p in projects_dir.iterdir() if p.is_dir()):
-        description_path = project_dir / "description.md"
+        if project_dir.name.startswith("_"):
+            continue
+
+        description_path = project_dir / "README.md"
         if not description_path.is_file():
             continue
 
@@ -59,8 +62,8 @@ def generate_markdown(df: pd.DataFrame) -> str:
         section_lines = [f"## {subfield_name}", ""]
 
         for _, project in group.sort_values("Title").iterrows():
-            description_link = quote(f"{PROJECTS_DIR_NAME}/{project['Directory']}/description.md")
-            section_lines.append(f"### [{project['Title']}]({description_link})")
+            project_link = quote(f"{PROJECTS_DIR_NAME}/{project['Directory']}")
+            section_lines.append(f"### [{project['Title']}]({project_link})")
             section_lines.append(f"- **Topics Covered:** {project['Topics Covered']}")
             section_lines.append(f"- **Project Type:** {project['Project Type']}")
             section_lines.append("")
