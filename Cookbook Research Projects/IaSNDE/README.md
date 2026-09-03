@@ -1,7 +1,10 @@
 # Title: Dark Energy from Type Ia Supernovae
 Original Author: Nihar Dalal
+
 *Subfield: Cosmology*
+
 *Topics covered: Supernovae, Cosmology, Dark Energy*
+
 *Type of project: Data Analysis*
 
 ## Short Description:
