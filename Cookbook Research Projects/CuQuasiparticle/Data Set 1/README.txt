@@ -1,0 +1,1 @@
+The included files contain topographic, current, and dI/dV data of the standing wave pattern in the vicinity of point defects on a Cu(111) sample. Each image is at a different sample bias.
