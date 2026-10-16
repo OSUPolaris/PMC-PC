@@ -2,9 +2,10 @@ Title,Subfield,Topics Covered,Project Type,Directory
 Bell’s Theorem in Quantum Magnets,Condensed Matter,"Quantum information theory, Ising model",Theory and Computation,BellsTheoremQM
 Chemical Cartography of the Milky Way,Astronomy,"Stellar abundances, nucleosynthesis, Milky Way Galaxy",Data Analysis,ChemicalCartography
 Determining the Temperature of the Cosmic Microwave Background,Cosmology,"Cosmic microwave background, blackbody radiation, general cosmology",Theory and Data Analysis,CMBTemperature
-Quasiparticle Interference Mapping of Cu(111) Surface,Condensed Matter,scanning tunnelling microscopy,Data analysis,CuQuasiparticle
+Quasiparticle Interference Mapping of Cu(111) Surface,Condensed Matter,scanning tunnelling microscopy,Data Analysis,CuQuasiparticle
 Outnumbered by the Invisible: Calculating the amount of Galactic Dark Matter,Astrophysics,"Dark matter, numerical integration, celestial geometry",Theory,DMJfactor
+Exoplanet Detection using the RV Method,Astronomy,"Exoplanets, Radial Velocity Method",Data Analysis,ExoplanetRV
 Dark Energy from Type Ia Supernovae,Cosmology,"Supernovae, Cosmology, Dark Energy",Data Analysis,IaSNDE
 Ravenous Voids: A Study of Black Hole Growth,Astrophysics,"Black holes, Eddington limit, differential equations",Theory,RavenousVoids
-Constraining the Electron Neutrino Mass using SN1987a,Astroparticle Physics,"Neutrinos, supernovae, special relativity",Theory and data analysis,SN1987ANuSignal
+Constraining the Electron Neutrino Mass using SN1987a,Astroparticle Physics,"Neutrinos, supernovae, special relativity",Theory and Data Analysis,SN1987ANuSignal
 Understanding the Radioactive Tail of SN 1987A,Astrophysics,"Supernova lightcurves, radioactive decay",Data Analysis,SN1987ARadTail

@@ -6,12 +6,16 @@
 > - **Topics Covered:** Stellar abundances, nucleosynthesis, Milky Way Galaxy
 > - **Project Type:** Data Analysis
 >
+> ### [Exoplanet Detection using the RV Method](Cookbook%20Research%20Projects/ExoplanetRV)
+> - **Topics Covered:** Exoplanets, Radial Velocity Method
+> - **Project Type:** Data Analysis
+>
 
 > ## Astroparticle Physics
 >
 > ### [Constraining the Electron Neutrino Mass using SN1987a](Cookbook%20Research%20Projects/SN1987ANuSignal)
 > - **Topics Covered:** Neutrinos, supernovae, special relativity
-> - **Project Type:** Theory and data analysis
+> - **Project Type:** Theory and Data Analysis
 >
 
 > ## Astrophysics
@@ -37,7 +41,7 @@
 >
 > ### [Quasiparticle Interference Mapping of Cu(111) Surface](Cookbook%20Research%20Projects/CuQuasiparticle)
 > - **Topics Covered:** scanning tunnelling microscopy
-> - **Project Type:** Data analysis
+> - **Project Type:** Data Analysis
 >
 
 > ## Cosmology
