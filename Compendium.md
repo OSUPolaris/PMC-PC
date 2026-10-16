@@ -28,9 +28,20 @@
 > - **Topics Covered:** Black holes, Eddington limit, differential equations
 > - **Project Type:** Theory
 >
+> ### [Stellar Models and the Chandrasekhar Limit](Cookbook%20Research%20Projects/StellarModels)
+> - **Topics Covered:** Stellar Structure and Evolution, Chandrasekhar Limit
+> - **Project Type:** Theory
+>
 > ### [Understanding the Radioactive Tail of SN 1987A](Cookbook%20Research%20Projects/SN1987ARadTail)
 > - **Topics Covered:** Supernova lightcurves, radioactive decay
 > - **Project Type:** Data Analysis
+>
+
+> ## Biophysics
+>
+> ### [Random Walks to Model Biological Systems](Cookbook%20Research%20Projects/PolymerRandomWalk)
+> - **Topics Covered:** Random walks, Boltzmann statistics
+> - **Project Type:** Theory
 >
 
 > ## Condensed Matter
