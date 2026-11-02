@@ -10,6 +10,10 @@
 > - **Topics Covered:** Exoplanets, Radial Velocity Method
 > - **Project Type:** Data Analysis
 >
+> ### [Finding Rogue Planets with Roman](Cookbook%20Research%20Projects/SingleLensModel)
+> - **Topics Covered:** microlensing, rogue planets, single lens model
+> - **Project Type:** data analysis
+>
 
 > ## Astroparticle Physics
 >
