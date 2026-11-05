@@ -6,7 +6,7 @@ This repository is a one-stop-shop for designing, facilitating, and storing Ment
 Below, we provide some brief instructions on what this repository contains exactly, as well as where to find what you're looking for.
 
 ### Mentor Project Training
-For materials on becoming oriented with leading a Mentor/Mentee project, please check out (under construction).
+For materials on becoming oriented with leading a Mentor/Mentee project, please check out [Training and Guides](Training%20and%20Guides).
 
 ### Project Cookbooks
 The complete list of Project Cookbooks can be found in the [Project Index](Project_Index.md).
