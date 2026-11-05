@@ -1,9 +1,11 @@
 Title,Subfield,Topics Covered,Project Type,Directory
+The Three-Body Problem: Exploring the Chaos of Gravitational Motion,Astrophysics / Computational Physics,"Newtonian gravity, orbital dynamics, numerical simulations, chaos theory",Theory / Computational,3BodyProblem
 Bell’s Theorem in Quantum Magnets,Condensed Matter,"Quantum information theory, Ising model",Theory and Computation,BellsTheoremQM
 Determining the Temperature of the Cosmic Microwave Background,Cosmology,"Cosmic microwave background, blackbody radiation, general cosmology",Theory and Data Analysis,CMBTemperature
 Chemical Cartography of the Milky Way,Astronomy,"Stellar abundances, nucleosynthesis, Milky Way Galaxy",Data Analysis,ChemicalCartography
 Quasiparticle Interference Mapping of Cu(111) Surface,Condensed Matter,scanning tunnelling microscopy,Data Analysis,CuQuasiparticle
 Outnumbered by the Invisible: Calculating the amount of Galactic Dark Matter,Astrophysics,"Dark matter, numerical integration, celestial geometry",Theory,DMJfactor
+Falling Through the Dark: Subhalo Orbits in Cold and Self-Interacting Dark Matter Halos,Astrophysics / Cosmology,"Cold Dark matter, Self-Interacting Dark matter, orbital dynamics, N-body simulations",Computational,DMSubhaloOrbit
 Exoplanet Detection using the RV Method,Astronomy,"Exoplanets, Radial Velocity Method",Data Analysis,ExoplanetRV
 Dark Energy from Type Ia Supernovae,Cosmology,"Supernovae, Cosmology, Dark Energy",Data Analysis,IaSNDE
 Random Walks to Model Biological Systems,Biophysics,"Random walks, Boltzmann statistics",Theory,PolymerRandomWalk

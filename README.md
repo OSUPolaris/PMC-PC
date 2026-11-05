@@ -9,7 +9,7 @@ Below, we provide some brief instructions on what this repository contains exact
 For materials on becoming oriented with leading a Mentor/Mentee project, please check out (under construction).
 
 ### Project Cookbooks
-The complete list of Project Cookbooks can be found in the [Compendium](Compendium.md).
+The complete list of Project Cookbooks can be found in the [Project Index](Project_Index.md).
 
 ## Notes for Polaris Leadership/PMC TAs
 For directions on maintaining this repository and adding new projects, please see the [Repository Backend](Repository%20Backend) directory.

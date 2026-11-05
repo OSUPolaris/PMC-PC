@@ -10,7 +10,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PROJECTS_DIR_NAME = "Cookbook Research Projects"
 PROJECTS_DIR = REPO_ROOT / PROJECTS_DIR_NAME
 OUTPUT_CSV = Path(__file__).resolve().parent / "compendium.csv"
-OUTPUT_MARKDOWN = REPO_ROOT / "Compendium.md"
+# OUTPUT_MARKDOWN = REPO_ROOT / "Compendium.md"
+OUTPUT_MARKDOWN = REPO_ROOT / "Project_Index.md"
 
 # Matches lines like "# Title: X", "*Subfield: X*", "*Topics covered: X*", "*Type of project: X*"
 FIELD_PATTERNS = {

@@ -41,6 +41,20 @@
 > - **Project Type:** Data Analysis
 >
 
+> ## Astrophysics / Computational Physics
+>
+> ### [The Three-Body Problem: Exploring the Chaos of Gravitational Motion](Cookbook%20Research%20Projects/3BodyProblem)
+> - **Topics Covered:** Newtonian gravity, orbital dynamics, numerical simulations, chaos theory
+> - **Project Type:** Theory / Computational
+>
+
+> ## Astrophysics / Cosmology
+>
+> ### [Falling Through the Dark: Subhalo Orbits in Cold and Self-Interacting Dark Matter Halos](Cookbook%20Research%20Projects/DMSubhaloOrbit)
+> - **Topics Covered:** Cold Dark matter, Self-Interacting Dark matter, orbital dynamics, N-body simulations
+> - **Project Type:** Computational
+>
+
 > ## Biophysics
 >
 > ### [Random Walks to Model Biological Systems](Cookbook%20Research%20Projects/PolymerRandomWalk)
